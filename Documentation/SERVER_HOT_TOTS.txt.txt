@@ -1,0 +1,2 @@
+Using these steps as reference, this file documents what did and did not work getting the server to work.
+
